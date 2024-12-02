@@ -1,5 +1,6 @@
+![images](https://github.com/user-attachments/assets/cb7b2427-c855-4fab-ab44-15e6b515fac0)
+
 # InfinityMart-Inventory-Analysis
-## Lost Items Analysis Report - InfinityMart
 This Excel dashboard analyzes InfinityMart's warehouse losses over a specified period, summarizing key performance indicators and providing a detailed analysis.
 
 ## 1 -  Key Performance Indicators (KPIs) Summary:
@@ -74,7 +75,7 @@ The categories most vulnerable to loss are:
 
 
 
-3 - Recommendations:
+## 3 - Recommendations:
 1.	Enhance Oversight on High Loss Days (Thursday, Tuesday, Sunday):
 It is recommended to increase oversight and implement additional preventive measures on the days with the highest loss rates, such as allocating extra staff or improving inventory monitoring processes to ensure greater effectiveness.
 2.	Review and Improve Procedures During the Morning Shift:
@@ -88,6 +89,6 @@ Explore new technologies such as RFID tracking systems or smart surveillance cam
 6.	Conduct Regular Data Analysis:
 Regular inventory analyses should be performed using dashboards or automated reports to detect any emerging issues or patterns, which will help in taking swift actions to reduce losses.
 
-4 - Conclusion:
+## 4 - Conclusion:
 We recommend implementing these recommendations to improve inventory management and reduce loss rates. The dashboard remains a vital dynamic tool for continuously updating analyses, which contributes to making informed and swift decisions to ensure the effectiveness of inventory management and achieve sustainable results.
 
