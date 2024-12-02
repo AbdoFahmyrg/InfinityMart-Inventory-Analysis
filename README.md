@@ -1,8 +1,8 @@
 # InfinityMart-Inventory-Analysis
-Lost Items Analysis Report - InfinityMart
-Introduction: This report aims to analyze the lost items in the InfinityMart warehouse over a specific period, using a dynamic dashboard created in Excel. The report provides a summary of key performance indicators (KPIs) and a detailed analysis based on the provided data.
+## Lost Items Analysis Report - InfinityMart
+This Excel dashboard analyzes InfinityMart's warehouse losses over a specified period, summarizing key performance indicators and providing a detailed analysis.
 
-1 -  Key Performance Indicators (KPIs) Summary:
+## 1 -  Key Performance Indicators (KPIs) Summary:
 •	Total Lost Items:
 The total number of lost items is 2,679.
 •	Highest Loss Day:
@@ -14,11 +14,12 @@ Employee "Bianca Tjăran" recorded the highest loss rate, with 468 items lost un
 •	Time Period with Most Loss:
 The morning period had the highest loss, with 981 items lost.
 
-2 - Data Analysis (Insights):
-•	Loss Patterns by Days:
+## 2 - Data Analysis (Insights):
+### •	Loss Patterns by Days:
 The highest loss days are as follows:
          Thursday, Tuesday, Sunday
 
+![image](https://github.com/user-attachments/assets/420a54f7-3a52-4df9-a2cf-b15f8f0915b9)
 
 
 
@@ -26,9 +27,10 @@ The highest loss days are as follows:
 
 
 
-•	Loss Patterns by Time:
+### •	Loss Patterns by Time:
 Losses are most concentrated in the morning period.
 
+![image](https://github.com/user-attachments/assets/23f2a537-043e-4351-b640-a5bf9e00d347)
 
 
 
@@ -38,12 +40,13 @@ Losses are most concentrated in the morning period.
 
 
 
-•	Employee Performance:
+### •	Employee Performance:
 The employees with the highest loss rates during their shifts are:
 1.	Bianca Țăran
 2.	Sorin Săftoiu
 3.	Radu Călinescu
 
+![image](https://github.com/user-attachments/assets/0995bcdf-14e9-4ee1-b287-5a7796fcf92f)
 
 
 
@@ -55,11 +58,12 @@ The employees with the highest loss rates during their shifts are:
 
 
 
-•	Most Affected Item Categories:
+### •	Most Affected Item Categories:
 The categories most vulnerable to loss are:
 1.	Throw Blanket
 2.	Electric Toothbrush
 
+![image](https://github.com/user-attachments/assets/f2627e15-b360-4b00-9fa1-ebfcd12af086)
 
 
 
